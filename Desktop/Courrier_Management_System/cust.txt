@@ -1,0 +1,8 @@
+44,sandesh,male,pokhara,sandesh12@gmail.com,1111111
+47,Kishor,male,Gharipatan,keychor99@gmail.com,934759837
+49,Nabin,male,Kushma,chhetri.nabin12@gmail.com,111111
+50,Bikram,male,Dovilla,bikramyoutuber@gmail.com,989888788
+51,PrashantBale,male,Birauta,dudabale@gmail.com,989798
+52,Gham,male,Gharipatan,ghamos@gmail.com,1111111
+53,sand,male,Gharipatan,sand.Giri@gmail.com,987577886
+54,suraj Pandey,male,Pokhara-6-Lakeside,surajpandey@gmail.com,9888898988

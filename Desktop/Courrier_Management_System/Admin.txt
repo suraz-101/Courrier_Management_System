@@ -1,0 +1,4 @@
+suraj,suraj123,suraj,suraj,male,985788454,Pokhara
+Sandesh Giri,sandesh123,sandesh,sandesh,male,3984539,Pokhara
+suraj,suraj,suraj,suraj,male,3535,pokhara
+Kishor,kishor123,kishor,kishor,male,98798,Gharipatan

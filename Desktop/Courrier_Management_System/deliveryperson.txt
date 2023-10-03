@@ -1,0 +1,3 @@
+231,suraj,suraj,suraj,male,3948394,pokhara
+232,sandesh,sandsh123,sandesh,male,9846779123,Pokhara
+235,Kishor,kishor.thapa@gmail.com,Kishor,male,098807,Pokhara
